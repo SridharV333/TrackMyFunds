@@ -1,6 +1,9 @@
 # About TrackMyFunds
 This Web App tracks your funds. It has two modules user and admin.
 
+Admin UserName -> admin
+Admin Password -> Test@123
+
 
 # Tech Stack Used:
 1. HTML
