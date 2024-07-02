@@ -7,7 +7,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span></button>
-                <a class="navbar-brand" href="dashboard.php"><span>Daily Expense Tracker | Admin</span></a>
+                <a class="navbar-brand" href="dashboard.php"><span>Track My Funds | Admin</span></a>
                 
             </div>
             
